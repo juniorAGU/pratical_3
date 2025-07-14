@@ -55,17 +55,17 @@ button.addEventListener("click", function myClick(){
  let btn6 = document.querySelector("#man")
 
  btn2.addEventListener("click",() => {
-    window.location.href = "http://127.0.0.1:5500/index.html"
+    window.location.href = "index.html"
  });
  btn3.addEventListener("click",() => {
-    window.location.href = "http://127.0.0.1:5500/app.html"
+    window.location.href = "app.html"
  });
     btn4.addEventListener("click",() => {
-        window.location.href = "http://127.0.0.1:5500/script.html"
+        window.location.href = "script.html"
  })
     btn5.addEventListener("click",() => {
-        window.location.href = "http://127.0.0.1:5500/element.html"
+        window.location.href = "element.html"
  })
     btn6.addEventListener("click",() => {
-        window.location.href = "http://127.0.0.1:5500/element.html"
+        window.location.href = "element.html"
 })
